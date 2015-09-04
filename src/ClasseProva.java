@@ -5,6 +5,7 @@ public class ClasseProva {
 		String greetings = "Hello word!";
 
 		System.out.println(greetings);
+		System.out.println("Ciao mondo!");
 	}
 
 }
